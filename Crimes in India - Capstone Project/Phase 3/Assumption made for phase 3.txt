@@ -1,0 +1,7 @@
+1] The assumption is the same as Phase 1 and Phase 2.
+2] Here I have only done SQL operations stated in the list .
+3] I have run all the query and all query is running properly with output I have taken snip shot of it.
+4] I have also made a report on this.
+5] I have also shared my sql file.
+
+
